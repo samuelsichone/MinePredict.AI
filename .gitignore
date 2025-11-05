@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+data/
+models/
+.DS_Store
+.env
+# Ignore raw sensor data
+data/raw/
+
+
