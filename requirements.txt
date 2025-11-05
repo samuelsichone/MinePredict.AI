@@ -1,0 +1,23 @@
+# Core Python libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+
+# Data visualization & dashboard
+plotly
+dash
+streamlit
+
+# AWS integration
+boto3
+
+# Utilities
+python-dotenv
+joblib
+
+# Notebook & dev tools
+jupyter
+notebook
